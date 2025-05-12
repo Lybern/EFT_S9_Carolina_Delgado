@@ -310,7 +310,7 @@ public class EFT_S9_Carolina_Delgado {
         }
     }
 
-    // Imprime los detalles de la última entrada vendida
+    // Imprime los detalles cada entrada vendida
     private static void imprimirBoleta() {
         
         if (entradasVendidas.isEmpty()) {
